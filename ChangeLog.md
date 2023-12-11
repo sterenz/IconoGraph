@@ -1,3 +1,24 @@
+2023-11-12␣␣Stefano Renzetti␣␣<stefano.renzetti3@studio.unibo.it>
+
+* Created section ***"3. Represent"*** `IconoGraph_EDA.ipynb`..
+
+2023-10-12␣␣Stefano Renzetti␣␣<stefano.renzetti3@studio.unibo.it>
+
+* Test retrieving data from Wikidata and joining it with Zeri data in JSON.
+
+* Updated `IconoGraph_EDA.ipynb` sections ***"1. Acquire and Parse'*** and
+    ***"2. Filter and mine"***.
+
+2023-08-12␣␣Stefano Renzetti␣␣<stefano.renzetti3@studio.unibo.it>
+
+* Parsing both graphs in `IconoGraph_EDA.ipynb`.
+
+* Updated `IconoGraph_EDA.ipynb` with tests on filtering.
+
+2023-06-12␣␣Stefano Renzetti␣␣<stefano.renzetti3@studio.unibo.it>
+
+* Testing Zeri Collection in `IconoGraph_EDA.ipynb`.
+
 2023-03-12␣␣Stefano Renzetti␣␣<stefano.renzetti3@studio.unibo.it>
 
 * Refactoring `IconoGraph_EDA.ipynb` section ***"1. Acquire and Parse"***.
@@ -12,7 +33,7 @@
 
 2023-01-12␣␣Stefano Renzetti␣␣<stefano.renzetti3@studio.unibo.it>
 
-* Updated  `IconoGraph_EDA.ipynb` with tests on filtering by time period.
+* Updated `IconoGraph_EDA.ipynb` with tests on filtering by time period.
 
 2023-30-11␣␣Stefano Renzetti␣␣<stefano.renzetti3@studio.unibo.it>
 
