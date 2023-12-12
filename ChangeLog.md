@@ -1,6 +1,10 @@
+2023-12-12␣␣Stefano Renzetti␣␣<stefano.renzetti3@studio.unibo.it>
+
+* Updated `IconoGraph_EDA.ipynb` section ***"3. Represent"***.
+
 2023-11-12␣␣Stefano Renzetti␣␣<stefano.renzetti3@studio.unibo.it>
 
-* Created section ***"3. Represent"*** `IconoGraph_EDA.ipynb`..
+* Created section ***"3. Represent"*** `IconoGraph_EDA.ipynb`.
 
 2023-10-12␣␣Stefano Renzetti␣␣<stefano.renzetti3@studio.unibo.it>
 
