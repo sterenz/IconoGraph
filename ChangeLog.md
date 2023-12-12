@@ -4,6 +4,22 @@
 
 * Implemented map in  section ***"3. Represent"***.
 
+* Installed NextJS with `yarn create next-app` for web app development.
+
+* Modified `.eslintrc.json` to accept escaping characters.
+
+* `Hero.tsx` created.
+
+* Imported fonts form "Google Fonts" in `layout.tsx`.
+
+* Installed "framer-motion" with `yarn add framer-motion`.
+
+* Created `Nav.tsx` to handle links in `Header.tsx`.
+
+* Links in `Nav.tsx` are declared in `lib/data.ts`.
+
+* `Intro.tsx` created.
+
 2023-11-12␣␣Stefano Renzetti␣␣<stefano.renzetti3@studio.unibo.it>
 
 * Created section ***"3. Represent"*** `IconoGraph_EDA.ipynb`.
