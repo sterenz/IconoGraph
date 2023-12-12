@@ -2,6 +2,8 @@
 
 * Updated `IconoGraph_EDA.ipynb` section ***"3. Represent"***.
 
+* Implemented map in  section ***"3. Represent"***.
+
 2023-11-12␣␣Stefano Renzetti␣␣<stefano.renzetti3@studio.unibo.it>
 
 * Created section ***"3. Represent"*** `IconoGraph_EDA.ipynb`.
