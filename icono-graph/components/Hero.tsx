@@ -5,7 +5,7 @@ export default function Hero() {
     return (
         <section id="hero" className="pb-6 h-screen animate-fade-in-down">
             <article className="max-w-7xl m-auto">
-                <div className="flex bg-cover bg-center bg-no-repeat bg-[url('/hero.jpg')] h-screen w-screen before:content-['']
+                <div className="flex bg-cover bg-center bg-no-repeat bg-hero-image h-screen min-w-screen before:content-['']
                 before:absolute
                 before:inset-0
                 before:block
@@ -14,7 +14,6 @@ export default function Hero() {
                 before:to-emerald-900
                 before:opacity-80
                 before:backdrop-grayscale
-
                 ">
                     <h3 className="absolute top-10 left-8 font-mono text-gray-50 tracking-wider">INFORMATION VIZUALIZATION PROJECT</h3>
                     <div className="transition-all absolute bottom-4 left-8">
