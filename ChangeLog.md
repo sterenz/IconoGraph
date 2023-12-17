@@ -2,6 +2,12 @@
 
 * Updated section ***"4. Refine"*** in `IconoGraph_EDA.ipynb`.
 
+* Added `Conclusions` and section ***"5. Interact"*** in `IconoGraph_EDA.ipynb`.
+
+* Added ChartJs with `yarn add chart.js react-chartjs-2`.
+
+* Created `BarChart.tsx` component.
+
 2023-16-12␣␣Stefano Renzetti␣␣<stefano.renzetti3@studio.unibo.it>
 
 * Updated section ***"4. Refine"*** in `IconoGraph_EDA.ipynb`.
