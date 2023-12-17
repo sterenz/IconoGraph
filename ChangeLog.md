@@ -1,3 +1,7 @@
+2023-17-12␣␣Stefano Renzetti␣␣<stefano.renzetti3@studio.unibo.it>
+
+* Updated section ***"4. Refine"*** in `IconoGraph_EDA.ipynb`.
+
 2023-16-12␣␣Stefano Renzetti␣␣<stefano.renzetti3@studio.unibo.it>
 
 * Updated section ***"4. Refine"*** in `IconoGraph_EDA.ipynb`.
