@@ -53,35 +53,74 @@ export default function BarChart() {
         }
     });
 
+    // Convert counts object to an array of objects
+    const dataForChart = Object.entries(counts).map(([artwork_type, count]) => ({
+        artwork_type,
+        count,
+    }));
+
+    // Sort the data by count in descending order
+    dataForChart.sort((a, b) => b.count - a.count); // Sort in descending order 
+
     // Prepare data for the chart
     const chartData = {
-        labels: Object.keys(counts),
+        labels: dataForChart.map((item) => item.artwork_type),
         datasets: [
             {
                 label: 'Number of Artworks',
-                data: Object.values(counts),
-                backgroundColor: 'rgba(54, 162, 235, 0.6)', // Custom color for bars
-                borderColor: 'rgba(54, 162, 235, 1)', // Custom border color for bars
-                borderWidth: 1,
+                data: dataForChart.map((item) => item.count),
+                backgroundColor: 'rgb(52 211 153)', // Custom color for bars
             },
         ],
     };
 
     const options = {
-        indexAxis: 'y' as const, // Specify 'y' explicitly
+        indexAxis: 'y' as const,
         elements: {
             bar: {
                 borderWidth: 1,
             },
         },
         responsive: true,
+        maintainAspectRatio: false,
         plugins: {
+            legend: {
+                display: false
+            },
             title: {
-                display: true,
+                display: false,
                 text: 'Number of Different Types of Artworks',
             },
         },
+        scales: {
+            x: {
+                
+                color: 'rgb(249 250 251)', // Font color for x-axis labels
+                ticks: {
+                    color: 'rgb(249 250 251)', // Font color for x-axis labels
+                },
+                grid: {
+                    color: 'rgba(249, 250, 251, 0.2)', // Color for x-axis grid lines
+                },
+            },
+            y: {
+                color: 'rgb(249 250 251)', // Font color for y-axis labels
+                ticks: {
+                    color: 'rgb(249 250 251)', // Font color for y-axis labels
+                },
+                grid: {
+                    color: 'rgba(249, 250, 251, 0)', // Color for y-axis grid lines
+                },
+                title: {
+                    display: false,
+                    text: 'Artwork Types',
+                    color: 'rgb(249 250 251)', // You can also set color for the title if needed
+                },
+            },
+        },
     };
+
+
 
     // console.log(jsonData); // Check data in the console to ensure it's fetched
 
@@ -99,13 +138,10 @@ export default function BarChart() {
                 ">
 
                         <div className="
-                                    bg-indigo-100
-                                    rounded-2xl
                                     p-8
                                     md:p-12
                                     row-span-4
                                     relative
-                                    hover:drop-shadow-md
                                     transition-all
                         ">
                             <div className="
@@ -117,18 +153,19 @@ export default function BarChart() {
                             ">
                                 <h1 className="
                                             font-bold
+                                            font-display
                                             text-4xl
                                             lg:text-6xl
-                                            text-indigo-900
+                                            text-emerald-400
                                             pb-8
                                             pr-2
                                 ">
-                                    Immigrants Level of Education
+                                    Artwork Types
                                 </h1>
                                 <p className="
-                                            text-lg
+                                            text-gray-50 font-sans text-lg
                                 ">
-                                    Over the observed time span, there hasn't been a substantial change; however, there is a minor increase in the attainment of Secondary School degrees.
+                                    The majority of the artworks in the Zeri's Archive, in the time span under consideration, 1400-1600, are mostly paintings.
                                 </p>
 
                             </div>
@@ -138,13 +175,12 @@ export default function BarChart() {
                                                             m-auto
                                                             w-full
                                                             h-[32rem]
-                                                            bg-gray-50
                                                             rounded-xl
                                                             px-2 py-6 mb-12
                                                             
                             ">
                                 {jsonData.length > 0 ? (
-                                    <Bar data={chartData} options={options} />
+                                    <Bar data={chartData} options={options} className="w-full" />
                                 ) : (
                                     <p>Loading...</p>
                                 )}

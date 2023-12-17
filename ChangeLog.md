@@ -8,6 +8,12 @@
 
 * Created `BarChart.tsx` component.
 
+* Added packages `leaflet` with `yarn add leaflet` and `yarn add react-leaflet`
+    and `yarn add -D @types/leaflet` for typescript support and
+    `yarn add react-leaflet-cluster` for manage clustering.
+
+* Created `Map.tsx` component.
+
 2023-16-12␣␣Stefano Renzetti␣␣<stefano.renzetti3@studio.unibo.it>
 
 * Updated section ***"4. Refine"*** in `IconoGraph_EDA.ipynb`.
