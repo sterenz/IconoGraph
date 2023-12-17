@@ -1,3 +1,29 @@
+2023-16-12␣␣Stefano Renzetti␣␣<stefano.renzetti3@studio.unibo.it>
+
+* Updated section ***"4. Refine"*** in `IconoGraph_EDA.ipynb`.
+
+* Refactoring wikidata call.
+
+* Saving cleaned JSON for visualization in `_clean`.
+
+2023-15-12␣␣Stefano Renzetti␣␣<stefano.renzetti3@studio.unibo.it>
+
+* Added wikidata call for artists info in ***"4. Refine"*** in
+    `IconoGraph_EDA.ipynb`.
+
+* Refactiorinf section ***"3. Represent"*** in `IconoGraph_EDA.ipynb`.
+
+2023-14-12␣␣Stefano Renzetti␣␣<stefano.renzetti3@studio.unibo.it>
+
+* Created section ***"4. Refine"*** `IconoGraph_EDA.ipynb`.
+
+2023-13-12␣␣Stefano Renzetti␣␣<stefano.renzetti3@studio.unibo.it>
+
+* Updated `IconoGraph_EDA.ipynb` section ***"3. Represent"***.
+
+* Created connection between artists from the two original datasets
+    in `IconoGraph_EDA.ipynb`.
+
 2023-12-12␣␣Stefano Renzetti␣␣<stefano.renzetti3@studio.unibo.it>
 
 * Updated `IconoGraph_EDA.ipynb` section ***"3. Represent"***.
