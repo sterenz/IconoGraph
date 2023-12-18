@@ -1,0 +1,57 @@
+[
+    {
+        "artwork_icon": "https://w3id.org/icon/data/ART1329",
+        "artistLabel_icon": "Tiziano Vecellio",
+        "startDate_icon": "1515-01-01T00:00:00",
+        "endDate_icon": "1515-12-31T23:59:59",
+        "artisticPeriod_icon": "https://w3id.org/icon/data/period/venetian-high-renaissance",
+        "artisticPeriodLabel_icon": "Venetian High Renaissance",
+        "locationLabel_icon": [
+            "Galleria Borghese",
+            "Rome"
+        ],
+        "book_icon": "http://www.worldcat.org/oclc/265570808",
+        "wikidataEntity_icon": "https://www.wikidata.org/wiki/Q794077",
+        "imageLink_icon": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Tiziano_-_Amor_Sacro_y_Amor_Profano_%28Galer%C3%ADa_Borghese%2C_Roma%2C_1514%29.jpg",
+        "fallWithinLocations_icon": [
+            "http://vocab.getty.edu/tgn/1000080",
+            "http://vocab.getty.edu/tgn/7000874",
+            "http://vocab.getty.edu/tgn/1000080",
+            "http://vocab.getty.edu/tgn/7000874",
+            "http://vocab.getty.edu/tgn/1000080",
+            "http://vocab.getty.edu/tgn/7000874",
+            "http://vocab.getty.edu/tgn/1000080",
+            "http://vocab.getty.edu/tgn/7000874"
+        ],
+        "artistRecognitions_icon": [
+            "http://viaf.org/viaf/109266837",
+            "http://viaf.org/viaf/109266837",
+            "http://vocab.getty.edu/ulan/00031075",
+            "http://vocab.getty.edu/ulan/00031075",
+            "http://vocab.getty.edu/ulan/500031075",
+            "http://vocab.getty.edu/ulan/500031075",
+            "http://www.wikidata.org/entity/Q47551",
+            "http://www.wikidata.org/entity/Q47551"
+        ],
+        "artwork_zeri": "https://w3id.org/zericatalog/artwork/43527",
+        "artworkTitleLabel_zeri": "Amor sacro e Amor profano",
+        "subjectLabel_zeri": "Allegoria dell'Amore",
+        "artworkTypeLabel_zeri": "painting",
+        "startDate_zeri": "1514-01-01T00:00:00Z",
+        "depictions_zeri": [
+            "http://catalogo.fondazionezeri.unibo.it/foto/120000/96000/95990.jpg",
+            "http://catalogo.fondazionezeri.unibo.it/foto/120000/96000/95994.jpg",
+            "http://catalogo.fondazionezeri.unibo.it/foto/120000/96000/95989.jpg",
+            "http://catalogo.fondazionezeri.unibo.it/foto/120000/96000/95991.jpg",
+            "http://catalogo.fondazionezeri.unibo.it/foto/120000/96000/95995.jpg",
+            "http://catalogo.fondazionezeri.unibo.it/foto/120000/96000/95998.jpg",
+            "http://catalogo.fondazionezeri.unibo.it/foto/120000/96000/95997.jpg",
+            "http://catalogo.fondazionezeri.unibo.it/foto/120000/96000/95992.jpg",
+            "http://catalogo.fondazionezeri.unibo.it/foto/120000/96000/95993.jpg",
+            "http://catalogo.fondazionezeri.unibo.it/foto/120000/96000/95996.jpg",
+            "http://catalogo.fondazionezeri.unibo.it/foto/120000/96000/95999.jpg"
+        ],
+        "height_zeri": "118",
+        "length_zeri": "279"
+    }
+]
