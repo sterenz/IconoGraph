@@ -4,19 +4,27 @@
 
 export const HEADER_LINKS = [
     {
-        name: "Intro",
-        href: "#datasets"
+        name: "Background",
+        href: "#background"
     },
     {
         name: "Datasets",
         href: "#datasets"
     },
     {
-        name: "Datasets",
-        href: "#datasets"
+        name: "Artworks Types",
+        href: "#barchart-artwork"
     },
     {
-        name: "Info",
-        href: "#datasets"
+        name: "Artworks Map",
+        href: "#map-artwork"
+    },
+    {
+        name: "Artwork Example",
+        href: "#scrolly-side"
+    },
+    {
+        name: "Conclusions",
+        href: "#coonclusions"
     }
 ];

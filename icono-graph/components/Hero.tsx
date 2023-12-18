@@ -21,7 +21,7 @@ export default function Hero() {
                             <span className="font-display font-thin italic">Icono</span>
                             <span className="font-mono font-normal">Graph</span>
                         </h1>
-                        <p className="max-w-xl text-gray-50 font-sans text-xl pb-4">
+                        <p className="max-w-2xl text-gray-50 font-sans text-2xl pb-4">
                             How does exploring the iconography within the realm of art unveil new dimensions and amplify the narrative of artworks?
                         </p>
                     </div>

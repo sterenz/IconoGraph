@@ -128,7 +128,7 @@ export default function BarChart() {
     // console.log(jsonData); // Check data in the console to ensure it's fetched
 
     return (
-        <section id="barchart-artwork" className="pb-6">
+        <section id="barchart-artwork" className="pb-40">
             <article className="
                             max-w-7xl
                             m-auto
@@ -168,7 +168,7 @@ export default function BarChart() {
                                 <p className="
                                             text-gray-50 font-sans text-lg
                                 ">
-                                    The majority of the artworks in the Zeri's Archive, in the time span under consideration, 1400-1600, are mostly paintings.
+                                    The Zeri's Archive predominantly consists of paintings within the considered time span of 1400-1600.
                                 </p>
 
                             </div>

@@ -58,7 +58,7 @@ export default function Map() {
     const markers = geocodejsonData || [];
  
     return (
-        <section id="map-artwork" className="pb-6">
+        <section id="map-artwork" className="pb-40">
             <article className="
                             max-w-7xl
                             m-auto

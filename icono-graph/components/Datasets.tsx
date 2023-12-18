@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-export default function Intro() {
+export default function Datasets() {
     return (
         <section id="datasets" className="py-72 animate-fade-in-down">
             <article className="max-w-7xl m-auto w-auto flex flex-col md:flex-row align-top py-20">
@@ -8,7 +8,6 @@ export default function Intro() {
                     <h3 className="font-mono text-xl text-gray-50 uppercase">Datasets Utilized</h3>
                 </div>
                 <div className="flex flex-1 w-4/6 gap-8">
-                    <h1>Datasets Utilized</h1>
                     <div className="text-gray-50 font-sans">
                         <div>
                             <h2 className="font-mono text-2xl text-emerald-400 pb-4">Iconology Dataset</h2>

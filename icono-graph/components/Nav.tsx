@@ -64,6 +64,9 @@ export default function Nav() {
             })
         }
        </div>
+        <Link href="https://github.com/sterenz/IconoGraph" className="text-slate-950 text-lg animate-fade-in-down bottom-10">
+            Github
+        </Link>
     </div>
   )
 }
