@@ -4,19 +4,19 @@
 
 export const HEADER_LINKS = [
     {
-        name: "Workflow",
-        href: "/workflow"
-    },
-    {
-        name: "Documentation",
-        href: "/documentation"
+        name: "Intro",
+        href: "#datasets"
     },
     {
         name: "Datasets",
-        href: "/datasets"
+        href: "#datasets"
+    },
+    {
+        name: "Datasets",
+        href: "#datasets"
     },
     {
         name: "Info",
-        href: "/info"
+        href: "#datasets"
     }
 ];

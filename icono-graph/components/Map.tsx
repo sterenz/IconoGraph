@@ -1,11 +1,13 @@
 'use client'
 
+import Image from "next/image"
 import { useEffect, useState } from "react";
 import Link from "next/link";
 import 'leaflet/dist/leaflet.css';
 import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
 import MarkerClusterGroup from "react-leaflet-cluster";
 import { Icon, divIcon, point } from "leaflet";
+import locationDotSolid from "@/public/location-dot-solid.svg"; // Import the image
 
 interface GeocodeData {
     geocode: [number, number];
@@ -17,8 +19,8 @@ interface GeocodeData {
 // create custom icon
 const customIcon = new Icon({
   // iconUrl: "https://cdn-icons-png.flaticon.com/512/447/447031.png",
-  iconUrl: require("../public/location-dot-solid.svg"),
-  iconSize: [38, 38] // size of the icon
+  iconUrl: locationDotSolid.src,
+  iconSize: [24, 24] // size of the icon
 });
 
 export default function Map() {
@@ -47,7 +49,7 @@ export default function Map() {
 
     const createClusterCustomIcon = function (cluster: any) {
         return divIcon({
-            html: `<span className="h-[3rem] w-[3rem] bg-emerald-400 rounded-[50%] -translate-x-1/4 flex justify-center">${cluster.getChildCount()}</span>`,
+            html: `<span className="h-[3rem] w-[3rem] bg-emerald-400 rounded-[50%] -translate-x-1/2 -translate-y-1/2 flex justify-center">${cluster.getChildCount()}</span>`,
             className: "custom-marker-cluster",
             iconSize: [33, 33]
         });
@@ -110,12 +112,12 @@ export default function Map() {
                                                 px-2 py-6
                                                 
                     ">
-                        <MapContainer center={[41.872, 12.567]} zoom={5.5} scrollWheelZoom={false} style={{ height: '44rem' }}>
+                        <MapContainer center={[41.872, 12.567]} zoom={5.5} scrollWheelZoom={false} style={{ height: '44rem', opacity: "0.8" }}>
                             <TileLayer
                                 attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
                                 // url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-                                url="https://{s}.basemaps.cartocdn.com/rastertiles/voyager_nolabels/{z}/{x}/{y}.png"
-                                // url="https://api.mapbox.com/styles/v1/renzrenz/ckkpj99tm0zei17p7s2a9hamh/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoicmVuenJlbnoiLCJhIjoiY2trcGo3cHRtMGRpcTJ1czE2bWE5bnd2biJ9.cFUxoodeOiS16_Na8xFm9Q"
+                                // url="https://{s}.basemaps.cartocdn.com/rastertiles/voyager_nolabels/{z}/{x}/{y}.png"
+                                url="https://api.mapbox.com/styles/v1/renzrenz/ckkpj99tm0zei17p7s2a9hamh/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoicmVuenJlbnoiLCJhIjoiY2trcGo3cHRtMGRpcTJ1czE2bWE5bnd2biJ9.cFUxoodeOiS16_Na8xFm9Q"
                             />
                             <MarkerClusterGroup
                                 chunkedLoading

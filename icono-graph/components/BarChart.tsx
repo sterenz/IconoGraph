@@ -60,16 +60,19 @@ export default function BarChart() {
     }));
 
     // Sort the data by count in descending order
-    dataForChart.sort((a, b) => b.count - a.count); // Sort in descending order 
+    dataForChart.sort((a, b) => b.count - a.count);
 
-    // Prepare data for the chart
+    // Take only the top 10 most present artwork types
+    const top10DataForChart = dataForChart.slice(0, 10);
+
+    // Prepare data for the chart using the top 10 artwork types
     const chartData = {
-        labels: dataForChart.map((item) => item.artwork_type),
+        labels: top10DataForChart.map((item) => item.artwork_type),
         datasets: [
             {
                 label: 'Number of Artworks',
-                data: dataForChart.map((item) => item.count),
-                backgroundColor: 'rgb(52 211 153)', // Custom color for bars
+                data: top10DataForChart.map((item) => item.count),
+                backgroundColor: 'rgb(52 211 153)',
             },
         ],
     };
@@ -182,7 +185,7 @@ export default function BarChart() {
                                 {jsonData.length > 0 ? (
                                     <Bar data={chartData} options={options} className="w-full" />
                                 ) : (
-                                    <p>Loading...</p>
+                                    <p className="text-gray-50 font-sans text-lg">Loading...</p>
                                 )}
                             </div>
                         </div>

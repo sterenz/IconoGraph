@@ -1,0 +1,862 @@
+[
+    {
+        "artwork": "https://w3id.org/icon/data/ART1329",
+        "element": "https://w3id.org/icon/data/classical-relief",
+        "elementLabel": "classical relief",
+        "elementRecognition": null,
+        "artisticMotif": "https://w3id.org/icon/data/ART1329-AM1",
+        "motifRecognition": "https://w3id.org/icon/data/ART1329-MOTIFREC2",
+        "composition": null,
+        "book": "http://www.worldcat.org/oclc/265570808",
+        "artHistorianName": "Erwin Panofsky",
+        "artHistorianRecognitions": [
+            "http://vocab.getty.edu/ulan/500216547",
+            "http://viaf.org/viaf/76321051",
+            "http://www.wikidata.org/entity/Q57656"
+        ],
+        "dulceQualities": [
+            "https://w3id.org/icon/data/quality/beautiful",
+            "https://w3id.org/icon/data/quality/young"
+        ],
+        "dulceQualitiesLabel": ""
+    },
+    {
+        "artwork": "https://w3id.org/icon/data/ART1329",
+        "element": "https://w3id.org/icon/data/cloth",
+        "elementLabel": "cloth",
+        "elementRecognition": "https://iconclass.org/47H6",
+        "artisticMotif": "https://w3id.org/icon/data/ART1329-AM1",
+        "motifRecognition": "https://w3id.org/icon/data/ART1329-MOTIFREC2",
+        "composition": null,
+        "book": "http://www.worldcat.org/oclc/265570808",
+        "artHistorianName": "Erwin Panofsky",
+        "artHistorianRecognitions": [
+            "http://vocab.getty.edu/ulan/500216547",
+            "http://viaf.org/viaf/76321051",
+            "http://www.wikidata.org/entity/Q57656"
+        ],
+        "dulceQualities": [
+            "https://w3id.org/icon/data/quality/beautiful",
+            "https://w3id.org/icon/data/quality/young"
+        ],
+        "dulceQualitiesLabel": ""
+    },
+    {
+        "artwork": "https://w3id.org/icon/data/ART1329",
+        "element": "https://w3id.org/icon/data/country-church",
+        "elementLabel": "country church",
+        "elementRecognition": null,
+        "artisticMotif": "https://w3id.org/icon/data/ART1329-AM1",
+        "motifRecognition": "https://w3id.org/icon/data/ART1329-MOTIFREC2",
+        "composition": null,
+        "book": "http://www.worldcat.org/oclc/265570808",
+        "artHistorianName": "Erwin Panofsky",
+        "artHistorianRecognitions": [
+            "http://vocab.getty.edu/ulan/500216547",
+            "http://viaf.org/viaf/76321051",
+            "http://www.wikidata.org/entity/Q57656"
+        ],
+        "dulceQualities": [
+            "https://w3id.org/icon/data/quality/beautiful",
+            "https://w3id.org/icon/data/quality/young"
+        ],
+        "dulceQualitiesLabel": ""
+    },
+    {
+        "artwork": "https://w3id.org/icon/data/ART1329",
+        "element": "https://w3id.org/icon/data/dress",
+        "elementLabel": "dress",
+        "elementRecognition": "https://iconclass.org/41D211",
+        "artisticMotif": "https://w3id.org/icon/data/ART1329-AM1",
+        "motifRecognition": "https://w3id.org/icon/data/ART1329-MOTIFREC2",
+        "composition": null,
+        "book": "http://www.worldcat.org/oclc/265570808",
+        "artHistorianName": "Erwin Panofsky",
+        "artHistorianRecognitions": [
+            "http://vocab.getty.edu/ulan/500216547",
+            "http://viaf.org/viaf/76321051",
+            "http://www.wikidata.org/entity/Q57656"
+        ],
+        "dulceQualities": [
+            "https://w3id.org/icon/data/quality/beautiful",
+            "https://w3id.org/icon/data/quality/young"
+        ],
+        "dulceQualitiesLabel": ""
+    },
+    {
+        "artwork": "https://w3id.org/icon/data/ART1329",
+        "element": "https://w3id.org/icon/data/flock-of-sheep",
+        "elementLabel": "flock of sheep",
+        "elementRecognition": null,
+        "artisticMotif": "https://w3id.org/icon/data/ART1329-AM1",
+        "motifRecognition": "https://w3id.org/icon/data/ART1329-MOTIFREC2",
+        "composition": null,
+        "book": "http://www.worldcat.org/oclc/265570808",
+        "artHistorianName": "Erwin Panofsky",
+        "artHistorianRecognitions": [
+            "http://vocab.getty.edu/ulan/500216547",
+            "http://viaf.org/viaf/76321051",
+            "http://www.wikidata.org/entity/Q57656"
+        ],
+        "dulceQualities": [
+            "https://w3id.org/icon/data/quality/beautiful",
+            "https://w3id.org/icon/data/quality/young"
+        ],
+        "dulceQualitiesLabel": ""
+    },
+    {
+        "artwork": "https://w3id.org/icon/data/ART1329",
+        "element": "https://w3id.org/icon/data/fortified-town",
+        "elementLabel": "fortified town",
+        "elementRecognition": null,
+        "artisticMotif": "https://w3id.org/icon/data/ART1329-AM1",
+        "motifRecognition": "https://w3id.org/icon/data/ART1329-MOTIFREC2",
+        "composition": null,
+        "book": "http://www.worldcat.org/oclc/265570808",
+        "artHistorianName": "Erwin Panofsky",
+        "artHistorianRecognitions": [
+            "http://vocab.getty.edu/ulan/500216547",
+            "http://viaf.org/viaf/76321051",
+            "http://www.wikidata.org/entity/Q57656"
+        ],
+        "dulceQualities": [
+            "https://w3id.org/icon/data/quality/beautiful",
+            "https://w3id.org/icon/data/quality/young"
+        ],
+        "dulceQualitiesLabel": ""
+    },
+    {
+        "artwork": "https://w3id.org/icon/data/ART1329",
+        "element": "https://w3id.org/icon/data/hair",
+        "elementLabel": "hair",
+        "elementRecognition": "https://iconclass.org/31A22621",
+        "artisticMotif": "https://w3id.org/icon/data/ART1329-AM1",
+        "motifRecognition": "https://w3id.org/icon/data/ART1329-MOTIFREC2",
+        "composition": null,
+        "book": "http://www.worldcat.org/oclc/265570808",
+        "artHistorianName": "Erwin Panofsky",
+        "artHistorianRecognitions": [
+            "http://vocab.getty.edu/ulan/500216547",
+            "http://viaf.org/viaf/76321051",
+            "http://www.wikidata.org/entity/Q57656"
+        ],
+        "dulceQualities": [
+            "https://w3id.org/icon/data/quality/beautiful",
+            "https://w3id.org/icon/data/quality/young"
+        ],
+        "dulceQualitiesLabel": ""
+    },
+    {
+        "artwork": "https://w3id.org/icon/data/ART1329",
+        "element": "https://w3id.org/icon/data/hair",
+        "elementLabel": "hair",
+        "elementRecognition": "https://iconclass.org/31A22622",
+        "artisticMotif": "https://w3id.org/icon/data/ART1329-AM1",
+        "motifRecognition": "https://w3id.org/icon/data/ART1329-MOTIFREC2",
+        "composition": null,
+        "book": "http://www.worldcat.org/oclc/265570808",
+        "artHistorianName": "Erwin Panofsky",
+        "artHistorianRecognitions": [
+            "http://vocab.getty.edu/ulan/500216547",
+            "http://viaf.org/viaf/76321051",
+            "http://www.wikidata.org/entity/Q57656"
+        ],
+        "dulceQualities": [
+            "https://w3id.org/icon/data/quality/beautiful",
+            "https://w3id.org/icon/data/quality/young"
+        ],
+        "dulceQualitiesLabel": ""
+    },
+    {
+        "artwork": "https://w3id.org/icon/data/ART1329",
+        "element": "https://w3id.org/icon/data/hare",
+        "elementLabel": "hare",
+        "elementRecognition": "https://iconclass.org/25F26(HARE)",
+        "artisticMotif": "https://w3id.org/icon/data/ART1329-AM1",
+        "motifRecognition": "https://w3id.org/icon/data/ART1329-MOTIFREC2",
+        "composition": null,
+        "book": "http://www.worldcat.org/oclc/265570808",
+        "artHistorianName": "Erwin Panofsky",
+        "artHistorianRecognitions": [
+            "http://vocab.getty.edu/ulan/500216547",
+            "http://viaf.org/viaf/76321051",
+            "http://www.wikidata.org/entity/Q57656"
+        ],
+        "dulceQualities": [
+            "https://w3id.org/icon/data/quality/beautiful",
+            "https://w3id.org/icon/data/quality/young"
+        ],
+        "dulceQualitiesLabel": ""
+    },
+    {
+        "artwork": "https://w3id.org/icon/data/ART1329",
+        "element": "https://w3id.org/icon/data/holding-with-the-left-hand",
+        "elementLabel": "holding with the left hand",
+        "elementRecognition": null,
+        "artisticMotif": "https://w3id.org/icon/data/ART1329-AM1",
+        "motifRecognition": "https://w3id.org/icon/data/ART1329-MOTIFREC2",
+        "composition": null,
+        "book": "http://www.worldcat.org/oclc/265570808",
+        "artHistorianName": "Erwin Panofsky",
+        "artHistorianRecognitions": [
+            "http://vocab.getty.edu/ulan/500216547",
+            "http://viaf.org/viaf/76321051",
+            "http://www.wikidata.org/entity/Q57656"
+        ],
+        "dulceQualities": [
+            "https://w3id.org/icon/data/quality/beautiful",
+            "https://w3id.org/icon/data/quality/young"
+        ],
+        "dulceQualitiesLabel": ""
+    },
+    {
+        "artwork": "https://w3id.org/icon/data/ART1329",
+        "element": "https://w3id.org/icon/data/natural-landscape",
+        "elementLabel": "natural landscape",
+        "elementRecognition": "https://iconclass.org/25H",
+        "artisticMotif": "https://w3id.org/icon/data/ART1329-AM1",
+        "motifRecognition": "https://w3id.org/icon/data/ART1329-MOTIFREC2",
+        "composition": null,
+        "book": "http://www.worldcat.org/oclc/265570808",
+        "artHistorianName": "Erwin Panofsky",
+        "artHistorianRecognitions": [
+            "http://vocab.getty.edu/ulan/500216547",
+            "http://viaf.org/viaf/76321051",
+            "http://www.wikidata.org/entity/Q57656"
+        ],
+        "dulceQualities": [
+            "https://w3id.org/icon/data/quality/beautiful",
+            "https://w3id.org/icon/data/quality/young"
+        ],
+        "dulceQualitiesLabel": ""
+    },
+    {
+        "artwork": "https://w3id.org/icon/data/ART1329",
+        "element": "https://w3id.org/icon/data/putto",
+        "elementLabel": "putto",
+        "elementRecognition": null,
+        "artisticMotif": "https://w3id.org/icon/data/ART1329-AM1",
+        "motifRecognition": "https://w3id.org/icon/data/ART1329-MOTIFREC2",
+        "composition": null,
+        "book": "http://www.worldcat.org/oclc/265570808",
+        "artHistorianName": "Erwin Panofsky",
+        "artHistorianRecognitions": [
+            "http://vocab.getty.edu/ulan/500216547",
+            "http://viaf.org/viaf/76321051",
+            "http://www.wikidata.org/entity/Q57656"
+        ],
+        "dulceQualities": [
+            "https://w3id.org/icon/data/quality/beautiful",
+            "https://w3id.org/icon/data/quality/young"
+        ],
+        "dulceQualitiesLabel": ""
+    },
+    {
+        "artwork": "https://w3id.org/icon/data/ART1329",
+        "element": "https://w3id.org/icon/data/sarcophagus-used-as-a-fountain",
+        "elementLabel": "sarcophagus used as a fountain",
+        "elementRecognition": null,
+        "artisticMotif": "https://w3id.org/icon/data/ART1329-AM1",
+        "motifRecognition": "https://w3id.org/icon/data/ART1329-MOTIFREC2",
+        "composition": null,
+        "book": "http://www.worldcat.org/oclc/265570808",
+        "artHistorianName": "Erwin Panofsky",
+        "artHistorianRecognitions": [
+            "http://vocab.getty.edu/ulan/500216547",
+            "http://viaf.org/viaf/76321051",
+            "http://www.wikidata.org/entity/Q57656"
+        ],
+        "dulceQualities": [
+            "https://w3id.org/icon/data/quality/beautiful",
+            "https://w3id.org/icon/data/quality/young"
+        ],
+        "dulceQualitiesLabel": ""
+    },
+    {
+        "artwork": "https://w3id.org/icon/data/ART1329",
+        "element": "https://w3id.org/icon/data/serenity",
+        "elementLabel": "serenity",
+        "elementRecognition": null,
+        "artisticMotif": "https://w3id.org/icon/data/ART1329-AM1",
+        "motifRecognition": "https://w3id.org/icon/data/ART1329-MOTIFREC2",
+        "composition": null,
+        "book": "http://www.worldcat.org/oclc/265570808",
+        "artHistorianName": "Erwin Panofsky",
+        "artHistorianRecognitions": [
+            "http://vocab.getty.edu/ulan/500216547",
+            "http://viaf.org/viaf/76321051",
+            "http://www.wikidata.org/entity/Q57656"
+        ],
+        "dulceQualities": [
+            "https://w3id.org/icon/data/quality/beautiful",
+            "https://w3id.org/icon/data/quality/young"
+        ],
+        "dulceQualitiesLabel": ""
+    },
+    {
+        "artwork": "https://w3id.org/icon/data/ART1329",
+        "element": "https://w3id.org/icon/data/sitting-on",
+        "elementLabel": "sitting on",
+        "elementRecognition": null,
+        "artisticMotif": "https://w3id.org/icon/data/ART1329-AM1",
+        "motifRecognition": "https://w3id.org/icon/data/ART1329-MOTIFREC2",
+        "composition": null,
+        "book": "http://www.worldcat.org/oclc/265570808",
+        "artHistorianName": "Erwin Panofsky",
+        "artHistorianRecognitions": [
+            "http://vocab.getty.edu/ulan/500216547",
+            "http://viaf.org/viaf/76321051",
+            "http://www.wikidata.org/entity/Q57656"
+        ],
+        "dulceQualities": [
+            "https://w3id.org/icon/data/quality/beautiful",
+            "https://w3id.org/icon/data/quality/young"
+        ],
+        "dulceQualitiesLabel": ""
+    },
+    {
+        "artwork": "https://w3id.org/icon/data/ART1329",
+        "element": "https://w3id.org/icon/data/stirring-water",
+        "elementLabel": "stirring water",
+        "elementRecognition": null,
+        "artisticMotif": "https://w3id.org/icon/data/ART1329-AM1",
+        "motifRecognition": "https://w3id.org/icon/data/ART1329-MOTIFREC2",
+        "composition": null,
+        "book": "http://www.worldcat.org/oclc/265570808",
+        "artHistorianName": "Erwin Panofsky",
+        "artHistorianRecognitions": [
+            "http://vocab.getty.edu/ulan/500216547",
+            "http://viaf.org/viaf/76321051",
+            "http://www.wikidata.org/entity/Q57656"
+        ],
+        "dulceQualities": [
+            "https://w3id.org/icon/data/quality/beautiful",
+            "https://w3id.org/icon/data/quality/young"
+        ],
+        "dulceQualitiesLabel": ""
+    },
+    {
+        "artwork": "https://w3id.org/icon/data/ART1329",
+        "element": "https://w3id.org/icon/data/vase-with-fire",
+        "elementLabel": "vase with fire",
+        "elementRecognition": null,
+        "artisticMotif": "https://w3id.org/icon/data/ART1329-AM1",
+        "motifRecognition": "https://w3id.org/icon/data/ART1329-MOTIFREC2",
+        "composition": null,
+        "book": "http://www.worldcat.org/oclc/265570808",
+        "artHistorianName": "Erwin Panofsky",
+        "artHistorianRecognitions": [
+            "http://vocab.getty.edu/ulan/500216547",
+            "http://viaf.org/viaf/76321051",
+            "http://www.wikidata.org/entity/Q57656"
+        ],
+        "dulceQualities": [
+            "https://w3id.org/icon/data/quality/beautiful",
+            "https://w3id.org/icon/data/quality/young"
+        ],
+        "dulceQualitiesLabel": ""
+    },
+    {
+        "artwork": "https://w3id.org/icon/data/ART1329",
+        "element": "https://w3id.org/icon/data/vessel",
+        "elementLabel": "vessel",
+        "elementRecognition": null,
+        "artisticMotif": "https://w3id.org/icon/data/ART1329-AM1",
+        "motifRecognition": "https://w3id.org/icon/data/ART1329-MOTIFREC2",
+        "composition": null,
+        "book": "http://www.worldcat.org/oclc/265570808",
+        "artHistorianName": "Erwin Panofsky",
+        "artHistorianRecognitions": [
+            "http://vocab.getty.edu/ulan/500216547",
+            "http://viaf.org/viaf/76321051",
+            "http://www.wikidata.org/entity/Q57656"
+        ],
+        "dulceQualities": [
+            "https://w3id.org/icon/data/quality/beautiful",
+            "https://w3id.org/icon/data/quality/young"
+        ],
+        "dulceQualitiesLabel": ""
+    },
+    {
+        "artwork": "https://w3id.org/icon/data/ART1329",
+        "element": "https://w3id.org/icon/data/wings",
+        "elementLabel": "wings",
+        "elementRecognition": "https://iconclass.org/31A458",
+        "artisticMotif": "https://w3id.org/icon/data/ART1329-AM1",
+        "motifRecognition": "https://w3id.org/icon/data/ART1329-MOTIFREC2",
+        "composition": null,
+        "book": "http://www.worldcat.org/oclc/265570808",
+        "artHistorianName": "Erwin Panofsky",
+        "artHistorianRecognitions": [
+            "http://vocab.getty.edu/ulan/500216547",
+            "http://viaf.org/viaf/76321051",
+            "http://www.wikidata.org/entity/Q57656"
+        ],
+        "dulceQualities": [
+            "https://w3id.org/icon/data/quality/beautiful",
+            "https://w3id.org/icon/data/quality/young"
+        ],
+        "dulceQualitiesLabel": ""
+    },
+    {
+        "artwork": "https://w3id.org/icon/data/ART1329",
+        "element": "https://w3id.org/icon/data/woman",
+        "elementLabel": "woman",
+        "elementRecognition": "https://iconclass.org/31A72",
+        "artisticMotif": "https://w3id.org/icon/data/ART1329-AM1",
+        "motifRecognition": "https://w3id.org/icon/data/ART1329-MOTIFREC2",
+        "composition": null,
+        "book": "http://www.worldcat.org/oclc/265570808",
+        "artHistorianName": "Erwin Panofsky",
+        "artHistorianRecognitions": [
+            "http://vocab.getty.edu/ulan/500216547",
+            "http://viaf.org/viaf/76321051",
+            "http://www.wikidata.org/entity/Q57656"
+        ],
+        "dulceQualities": [
+            "https://w3id.org/icon/data/quality/beautiful",
+            "https://w3id.org/icon/data/quality/young"
+        ],
+        "dulceQualitiesLabel": ""
+    },
+    {
+        "artwork": "https://w3id.org/icon/data/ART1329",
+        "element": "https://w3id.org/icon/data/classical-relief",
+        "elementLabel": "classical relief",
+        "elementRecognition": null,
+        "artisticMotif": "https://w3id.org/icon/data/ART1329-AM7",
+        "motifRecognition": "https://w3id.org/icon/data/ART1329-MOTIFREC1",
+        "composition": "https://w3id.org/icon/data/ART1329-COMP4",
+        "book": "http://www.worldcat.org/oclc/265570808",
+        "artHistorianName": "Erwin Panofsky",
+        "artHistorianRecognitions": [
+            "http://vocab.getty.edu/ulan/500216547",
+            "http://viaf.org/viaf/76321051",
+            "http://www.wikidata.org/entity/Q57656"
+        ],
+        "dulceQualities": [
+            "https://w3id.org/icon/data/quality/beautiful",
+            "https://w3id.org/icon/data/quality/young",
+            "https://w3id.org/icon/data/quality/nudity"
+        ],
+        "dulceQualitiesLabel": ""
+    },
+    {
+        "artwork": "https://w3id.org/icon/data/ART1329",
+        "element": "https://w3id.org/icon/data/cloth",
+        "elementLabel": "cloth",
+        "elementRecognition": "https://iconclass.org/47H6",
+        "artisticMotif": "https://w3id.org/icon/data/ART1329-AM7",
+        "motifRecognition": "https://w3id.org/icon/data/ART1329-MOTIFREC1",
+        "composition": "https://w3id.org/icon/data/ART1329-COMP4",
+        "book": "http://www.worldcat.org/oclc/265570808",
+        "artHistorianName": "Erwin Panofsky",
+        "artHistorianRecognitions": [
+            "http://vocab.getty.edu/ulan/500216547",
+            "http://viaf.org/viaf/76321051",
+            "http://www.wikidata.org/entity/Q57656"
+        ],
+        "dulceQualities": [
+            "https://w3id.org/icon/data/quality/beautiful",
+            "https://w3id.org/icon/data/quality/young",
+            "https://w3id.org/icon/data/quality/nudity"
+        ],
+        "dulceQualitiesLabel": ""
+    },
+    {
+        "artwork": "https://w3id.org/icon/data/ART1329",
+        "element": "https://w3id.org/icon/data/country-church",
+        "elementLabel": "country church",
+        "elementRecognition": null,
+        "artisticMotif": "https://w3id.org/icon/data/ART1329-AM7",
+        "motifRecognition": "https://w3id.org/icon/data/ART1329-MOTIFREC1",
+        "composition": "https://w3id.org/icon/data/ART1329-COMP4",
+        "book": "http://www.worldcat.org/oclc/265570808",
+        "artHistorianName": "Erwin Panofsky",
+        "artHistorianRecognitions": [
+            "http://vocab.getty.edu/ulan/500216547",
+            "http://viaf.org/viaf/76321051",
+            "http://www.wikidata.org/entity/Q57656"
+        ],
+        "dulceQualities": [
+            "https://w3id.org/icon/data/quality/beautiful",
+            "https://w3id.org/icon/data/quality/young",
+            "https://w3id.org/icon/data/quality/nudity"
+        ],
+        "dulceQualitiesLabel": ""
+    },
+    {
+        "artwork": "https://w3id.org/icon/data/ART1329",
+        "element": "https://w3id.org/icon/data/dress",
+        "elementLabel": "dress",
+        "elementRecognition": "https://iconclass.org/41D211",
+        "artisticMotif": "https://w3id.org/icon/data/ART1329-AM7",
+        "motifRecognition": "https://w3id.org/icon/data/ART1329-MOTIFREC1",
+        "composition": "https://w3id.org/icon/data/ART1329-COMP4",
+        "book": "http://www.worldcat.org/oclc/265570808",
+        "artHistorianName": "Erwin Panofsky",
+        "artHistorianRecognitions": [
+            "http://vocab.getty.edu/ulan/500216547",
+            "http://viaf.org/viaf/76321051",
+            "http://www.wikidata.org/entity/Q57656"
+        ],
+        "dulceQualities": [
+            "https://w3id.org/icon/data/quality/beautiful",
+            "https://w3id.org/icon/data/quality/young",
+            "https://w3id.org/icon/data/quality/nudity"
+        ],
+        "dulceQualitiesLabel": ""
+    },
+    {
+        "artwork": "https://w3id.org/icon/data/ART1329",
+        "element": "https://w3id.org/icon/data/flock-of-sheep",
+        "elementLabel": "flock of sheep",
+        "elementRecognition": null,
+        "artisticMotif": "https://w3id.org/icon/data/ART1329-AM7",
+        "motifRecognition": "https://w3id.org/icon/data/ART1329-MOTIFREC1",
+        "composition": "https://w3id.org/icon/data/ART1329-COMP4",
+        "book": "http://www.worldcat.org/oclc/265570808",
+        "artHistorianName": "Erwin Panofsky",
+        "artHistorianRecognitions": [
+            "http://vocab.getty.edu/ulan/500216547",
+            "http://viaf.org/viaf/76321051",
+            "http://www.wikidata.org/entity/Q57656"
+        ],
+        "dulceQualities": [
+            "https://w3id.org/icon/data/quality/beautiful",
+            "https://w3id.org/icon/data/quality/young",
+            "https://w3id.org/icon/data/quality/nudity"
+        ],
+        "dulceQualitiesLabel": ""
+    },
+    {
+        "artwork": "https://w3id.org/icon/data/ART1329",
+        "element": "https://w3id.org/icon/data/fortified-town",
+        "elementLabel": "fortified town",
+        "elementRecognition": null,
+        "artisticMotif": "https://w3id.org/icon/data/ART1329-AM7",
+        "motifRecognition": "https://w3id.org/icon/data/ART1329-MOTIFREC1",
+        "composition": "https://w3id.org/icon/data/ART1329-COMP4",
+        "book": "http://www.worldcat.org/oclc/265570808",
+        "artHistorianName": "Erwin Panofsky",
+        "artHistorianRecognitions": [
+            "http://vocab.getty.edu/ulan/500216547",
+            "http://viaf.org/viaf/76321051",
+            "http://www.wikidata.org/entity/Q57656"
+        ],
+        "dulceQualities": [
+            "https://w3id.org/icon/data/quality/beautiful",
+            "https://w3id.org/icon/data/quality/young",
+            "https://w3id.org/icon/data/quality/nudity"
+        ],
+        "dulceQualitiesLabel": ""
+    },
+    {
+        "artwork": "https://w3id.org/icon/data/ART1329",
+        "element": "https://w3id.org/icon/data/hair",
+        "elementLabel": "hair",
+        "elementRecognition": "https://iconclass.org/31A22621",
+        "artisticMotif": "https://w3id.org/icon/data/ART1329-AM7",
+        "motifRecognition": "https://w3id.org/icon/data/ART1329-MOTIFREC1",
+        "composition": "https://w3id.org/icon/data/ART1329-COMP4",
+        "book": "http://www.worldcat.org/oclc/265570808",
+        "artHistorianName": "Erwin Panofsky",
+        "artHistorianRecognitions": [
+            "http://vocab.getty.edu/ulan/500216547",
+            "http://viaf.org/viaf/76321051",
+            "http://www.wikidata.org/entity/Q57656"
+        ],
+        "dulceQualities": [
+            "https://w3id.org/icon/data/quality/beautiful",
+            "https://w3id.org/icon/data/quality/young",
+            "https://w3id.org/icon/data/quality/nudity"
+        ],
+        "dulceQualitiesLabel": ""
+    },
+    {
+        "artwork": "https://w3id.org/icon/data/ART1329",
+        "element": "https://w3id.org/icon/data/hair",
+        "elementLabel": "hair",
+        "elementRecognition": "https://iconclass.org/31A22622",
+        "artisticMotif": "https://w3id.org/icon/data/ART1329-AM7",
+        "motifRecognition": "https://w3id.org/icon/data/ART1329-MOTIFREC1",
+        "composition": "https://w3id.org/icon/data/ART1329-COMP4",
+        "book": "http://www.worldcat.org/oclc/265570808",
+        "artHistorianName": "Erwin Panofsky",
+        "artHistorianRecognitions": [
+            "http://vocab.getty.edu/ulan/500216547",
+            "http://viaf.org/viaf/76321051",
+            "http://www.wikidata.org/entity/Q57656"
+        ],
+        "dulceQualities": [
+            "https://w3id.org/icon/data/quality/beautiful",
+            "https://w3id.org/icon/data/quality/young",
+            "https://w3id.org/icon/data/quality/nudity"
+        ],
+        "dulceQualitiesLabel": ""
+    },
+    {
+        "artwork": "https://w3id.org/icon/data/ART1329",
+        "element": "https://w3id.org/icon/data/hare",
+        "elementLabel": "hare",
+        "elementRecognition": "https://iconclass.org/25F26(HARE)",
+        "artisticMotif": "https://w3id.org/icon/data/ART1329-AM7",
+        "motifRecognition": "https://w3id.org/icon/data/ART1329-MOTIFREC1",
+        "composition": "https://w3id.org/icon/data/ART1329-COMP4",
+        "book": "http://www.worldcat.org/oclc/265570808",
+        "artHistorianName": "Erwin Panofsky",
+        "artHistorianRecognitions": [
+            "http://vocab.getty.edu/ulan/500216547",
+            "http://viaf.org/viaf/76321051",
+            "http://www.wikidata.org/entity/Q57656"
+        ],
+        "dulceQualities": [
+            "https://w3id.org/icon/data/quality/beautiful",
+            "https://w3id.org/icon/data/quality/young",
+            "https://w3id.org/icon/data/quality/nudity"
+        ],
+        "dulceQualitiesLabel": ""
+    },
+    {
+        "artwork": "https://w3id.org/icon/data/ART1329",
+        "element": "https://w3id.org/icon/data/holding-with-the-left-hand",
+        "elementLabel": "holding with the left hand",
+        "elementRecognition": null,
+        "artisticMotif": "https://w3id.org/icon/data/ART1329-AM7",
+        "motifRecognition": "https://w3id.org/icon/data/ART1329-MOTIFREC1",
+        "composition": "https://w3id.org/icon/data/ART1329-COMP4",
+        "book": "http://www.worldcat.org/oclc/265570808",
+        "artHistorianName": "Erwin Panofsky",
+        "artHistorianRecognitions": [
+            "http://vocab.getty.edu/ulan/500216547",
+            "http://viaf.org/viaf/76321051",
+            "http://www.wikidata.org/entity/Q57656"
+        ],
+        "dulceQualities": [
+            "https://w3id.org/icon/data/quality/beautiful",
+            "https://w3id.org/icon/data/quality/young",
+            "https://w3id.org/icon/data/quality/nudity"
+        ],
+        "dulceQualitiesLabel": ""
+    },
+    {
+        "artwork": "https://w3id.org/icon/data/ART1329",
+        "element": "https://w3id.org/icon/data/natural-landscape",
+        "elementLabel": "natural landscape",
+        "elementRecognition": "https://iconclass.org/25H",
+        "artisticMotif": "https://w3id.org/icon/data/ART1329-AM7",
+        "motifRecognition": "https://w3id.org/icon/data/ART1329-MOTIFREC1",
+        "composition": "https://w3id.org/icon/data/ART1329-COMP4",
+        "book": "http://www.worldcat.org/oclc/265570808",
+        "artHistorianName": "Erwin Panofsky",
+        "artHistorianRecognitions": [
+            "http://vocab.getty.edu/ulan/500216547",
+            "http://viaf.org/viaf/76321051",
+            "http://www.wikidata.org/entity/Q57656"
+        ],
+        "dulceQualities": [
+            "https://w3id.org/icon/data/quality/beautiful",
+            "https://w3id.org/icon/data/quality/young",
+            "https://w3id.org/icon/data/quality/nudity"
+        ],
+        "dulceQualitiesLabel": ""
+    },
+    {
+        "artwork": "https://w3id.org/icon/data/ART1329",
+        "element": "https://w3id.org/icon/data/putto",
+        "elementLabel": "putto",
+        "elementRecognition": null,
+        "artisticMotif": "https://w3id.org/icon/data/ART1329-AM7",
+        "motifRecognition": "https://w3id.org/icon/data/ART1329-MOTIFREC1",
+        "composition": "https://w3id.org/icon/data/ART1329-COMP4",
+        "book": "http://www.worldcat.org/oclc/265570808",
+        "artHistorianName": "Erwin Panofsky",
+        "artHistorianRecognitions": [
+            "http://vocab.getty.edu/ulan/500216547",
+            "http://viaf.org/viaf/76321051",
+            "http://www.wikidata.org/entity/Q57656"
+        ],
+        "dulceQualities": [
+            "https://w3id.org/icon/data/quality/beautiful",
+            "https://w3id.org/icon/data/quality/young",
+            "https://w3id.org/icon/data/quality/nudity"
+        ],
+        "dulceQualitiesLabel": ""
+    },
+    {
+        "artwork": "https://w3id.org/icon/data/ART1329",
+        "element": "https://w3id.org/icon/data/sarcophagus-used-as-a-fountain",
+        "elementLabel": "sarcophagus used as a fountain",
+        "elementRecognition": null,
+        "artisticMotif": "https://w3id.org/icon/data/ART1329-AM7",
+        "motifRecognition": "https://w3id.org/icon/data/ART1329-MOTIFREC1",
+        "composition": "https://w3id.org/icon/data/ART1329-COMP4",
+        "book": "http://www.worldcat.org/oclc/265570808",
+        "artHistorianName": "Erwin Panofsky",
+        "artHistorianRecognitions": [
+            "http://vocab.getty.edu/ulan/500216547",
+            "http://viaf.org/viaf/76321051",
+            "http://www.wikidata.org/entity/Q57656"
+        ],
+        "dulceQualities": [
+            "https://w3id.org/icon/data/quality/beautiful",
+            "https://w3id.org/icon/data/quality/young",
+            "https://w3id.org/icon/data/quality/nudity"
+        ],
+        "dulceQualitiesLabel": ""
+    },
+    {
+        "artwork": "https://w3id.org/icon/data/ART1329",
+        "element": "https://w3id.org/icon/data/serenity",
+        "elementLabel": "serenity",
+        "elementRecognition": null,
+        "artisticMotif": "https://w3id.org/icon/data/ART1329-AM7",
+        "motifRecognition": "https://w3id.org/icon/data/ART1329-MOTIFREC1",
+        "composition": "https://w3id.org/icon/data/ART1329-COMP4",
+        "book": "http://www.worldcat.org/oclc/265570808",
+        "artHistorianName": "Erwin Panofsky",
+        "artHistorianRecognitions": [
+            "http://vocab.getty.edu/ulan/500216547",
+            "http://viaf.org/viaf/76321051",
+            "http://www.wikidata.org/entity/Q57656"
+        ],
+        "dulceQualities": [
+            "https://w3id.org/icon/data/quality/beautiful",
+            "https://w3id.org/icon/data/quality/young",
+            "https://w3id.org/icon/data/quality/nudity"
+        ],
+        "dulceQualitiesLabel": ""
+    },
+    {
+        "artwork": "https://w3id.org/icon/data/ART1329",
+        "element": "https://w3id.org/icon/data/sitting-on",
+        "elementLabel": "sitting on",
+        "elementRecognition": null,
+        "artisticMotif": "https://w3id.org/icon/data/ART1329-AM7",
+        "motifRecognition": "https://w3id.org/icon/data/ART1329-MOTIFREC1",
+        "composition": "https://w3id.org/icon/data/ART1329-COMP4",
+        "book": "http://www.worldcat.org/oclc/265570808",
+        "artHistorianName": "Erwin Panofsky",
+        "artHistorianRecognitions": [
+            "http://vocab.getty.edu/ulan/500216547",
+            "http://viaf.org/viaf/76321051",
+            "http://www.wikidata.org/entity/Q57656"
+        ],
+        "dulceQualities": [
+            "https://w3id.org/icon/data/quality/beautiful",
+            "https://w3id.org/icon/data/quality/young",
+            "https://w3id.org/icon/data/quality/nudity"
+        ],
+        "dulceQualitiesLabel": ""
+    },
+    {
+        "artwork": "https://w3id.org/icon/data/ART1329",
+        "element": "https://w3id.org/icon/data/stirring-water",
+        "elementLabel": "stirring water",
+        "elementRecognition": null,
+        "artisticMotif": "https://w3id.org/icon/data/ART1329-AM7",
+        "motifRecognition": "https://w3id.org/icon/data/ART1329-MOTIFREC1",
+        "composition": "https://w3id.org/icon/data/ART1329-COMP4",
+        "book": "http://www.worldcat.org/oclc/265570808",
+        "artHistorianName": "Erwin Panofsky",
+        "artHistorianRecognitions": [
+            "http://vocab.getty.edu/ulan/500216547",
+            "http://viaf.org/viaf/76321051",
+            "http://www.wikidata.org/entity/Q57656"
+        ],
+        "dulceQualities": [
+            "https://w3id.org/icon/data/quality/beautiful",
+            "https://w3id.org/icon/data/quality/young",
+            "https://w3id.org/icon/data/quality/nudity"
+        ],
+        "dulceQualitiesLabel": ""
+    },
+    {
+        "artwork": "https://w3id.org/icon/data/ART1329",
+        "element": "https://w3id.org/icon/data/vase-with-fire",
+        "elementLabel": "vase with fire",
+        "elementRecognition": null,
+        "artisticMotif": "https://w3id.org/icon/data/ART1329-AM7",
+        "motifRecognition": "https://w3id.org/icon/data/ART1329-MOTIFREC1",
+        "composition": "https://w3id.org/icon/data/ART1329-COMP4",
+        "book": "http://www.worldcat.org/oclc/265570808",
+        "artHistorianName": "Erwin Panofsky",
+        "artHistorianRecognitions": [
+            "http://vocab.getty.edu/ulan/500216547",
+            "http://viaf.org/viaf/76321051",
+            "http://www.wikidata.org/entity/Q57656"
+        ],
+        "dulceQualities": [
+            "https://w3id.org/icon/data/quality/beautiful",
+            "https://w3id.org/icon/data/quality/young",
+            "https://w3id.org/icon/data/quality/nudity"
+        ],
+        "dulceQualitiesLabel": ""
+    },
+    {
+        "artwork": "https://w3id.org/icon/data/ART1329",
+        "element": "https://w3id.org/icon/data/vessel",
+        "elementLabel": "vessel",
+        "elementRecognition": null,
+        "artisticMotif": "https://w3id.org/icon/data/ART1329-AM7",
+        "motifRecognition": "https://w3id.org/icon/data/ART1329-MOTIFREC1",
+        "composition": "https://w3id.org/icon/data/ART1329-COMP4",
+        "book": "http://www.worldcat.org/oclc/265570808",
+        "artHistorianName": "Erwin Panofsky",
+        "artHistorianRecognitions": [
+            "http://vocab.getty.edu/ulan/500216547",
+            "http://viaf.org/viaf/76321051",
+            "http://www.wikidata.org/entity/Q57656"
+        ],
+        "dulceQualities": [
+            "https://w3id.org/icon/data/quality/beautiful",
+            "https://w3id.org/icon/data/quality/young",
+            "https://w3id.org/icon/data/quality/nudity"
+        ],
+        "dulceQualitiesLabel": ""
+    },
+    {
+        "artwork": "https://w3id.org/icon/data/ART1329",
+        "element": "https://w3id.org/icon/data/wings",
+        "elementLabel": "wings",
+        "elementRecognition": "https://iconclass.org/31A458",
+        "artisticMotif": "https://w3id.org/icon/data/ART1329-AM7",
+        "motifRecognition": "https://w3id.org/icon/data/ART1329-MOTIFREC1",
+        "composition": "https://w3id.org/icon/data/ART1329-COMP4",
+        "book": "http://www.worldcat.org/oclc/265570808",
+        "artHistorianName": "Erwin Panofsky",
+        "artHistorianRecognitions": [
+            "http://vocab.getty.edu/ulan/500216547",
+            "http://viaf.org/viaf/76321051",
+            "http://www.wikidata.org/entity/Q57656"
+        ],
+        "dulceQualities": [
+            "https://w3id.org/icon/data/quality/beautiful",
+            "https://w3id.org/icon/data/quality/young",
+            "https://w3id.org/icon/data/quality/nudity"
+        ],
+        "dulceQualitiesLabel": ""
+    },
+    {
+        "artwork": "https://w3id.org/icon/data/ART1329",
+        "element": "https://w3id.org/icon/data/woman",
+        "elementLabel": "woman",
+        "elementRecognition": "https://iconclass.org/31A72",
+        "artisticMotif": "https://w3id.org/icon/data/ART1329-AM7",
+        "motifRecognition": "https://w3id.org/icon/data/ART1329-MOTIFREC1",
+        "composition": "https://w3id.org/icon/data/ART1329-COMP4",
+        "book": "http://www.worldcat.org/oclc/265570808",
+        "artHistorianName": "Erwin Panofsky",
+        "artHistorianRecognitions": [
+            "http://vocab.getty.edu/ulan/500216547",
+            "http://viaf.org/viaf/76321051",
+            "http://www.wikidata.org/entity/Q57656"
+        ],
+        "dulceQualities": [
+            "https://w3id.org/icon/data/quality/beautiful",
+            "https://w3id.org/icon/data/quality/young",
+            "https://w3id.org/icon/data/quality/nudity"
+        ],
+        "dulceQualitiesLabel": ""
+    }
+]

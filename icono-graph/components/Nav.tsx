@@ -1,3 +1,7 @@
+'use client'
+
+import Link from "next/link";
+import { useSelectedLayoutSegment } from "next/navigation";
 import { motion } from 'framer-motion';
 import { HEADER_LINKS } from '@/app/lib/data'
 
@@ -51,9 +55,9 @@ export default function Nav() {
                           animate="enter"
                           exit="exit"
                         >
-                            <a href={href} className="text-slate-950 text-4xl animate-fade-in-down">
+                            <Link href={href} className="text-slate-950 text-4xl animate-fade-in-down">
                                 {name}
-                            </a>
+                            </Link>
                         </motion.div>
                     </div>
                 )

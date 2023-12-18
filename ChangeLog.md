@@ -14,6 +14,8 @@
 
 * Created `Map.tsx` component.
 
+* Created `Loading.tsx` component.
+
 2023-16-12␣␣Stefano Renzetti␣␣<stefano.renzetti3@studio.unibo.it>
 
 * Updated section ***"4. Refine"*** in `IconoGraph_EDA.ipynb`.

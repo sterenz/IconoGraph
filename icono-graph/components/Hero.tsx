@@ -4,8 +4,8 @@ import hero from "@/public/hero.jpg"
 export default function Hero() {
     return (
         <section id="hero" className="pb-6 h-screen animate-fade-in-down">
-            <article className="max-w-7xl m-auto">
-                <div className="flex bg-cover bg-center bg-no-repeat bg-hero-image h-screen min-w-screen before:content-['']
+            <article className="m-auto">
+                <div className="flex bg-no-repeat bg-cover bg-center bg-fixed bg-hero-image h-screen min-w-screen before:content-['']
                 before:absolute
                 before:inset-0
                 before:block
@@ -22,7 +22,7 @@ export default function Hero() {
                             <span className="font-mono font-normal">Graph</span>
                         </h1>
                         <p className="max-w-xl text-gray-50 font-sans text-xl pb-4">
-                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eos at ullam rem quasi officia iure blanditiis iusto accusamus quis consequatur.
+                            How does exploring the iconography within the realm of art unveil new dimensions and amplify the narrative of artworks?
                         </p>
                     </div>
                 </div>
