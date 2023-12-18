@@ -18,3 +18,5 @@ In the final phase of the exploratory analysis, cleaned JSON data is saved. This
 
 ## Project Status and Attribution
 I, Stefano Renzetti, have undertaken all parts of this project. It is currently in a draft form, representing an idea or framework. The ultimate objective is to further enhance and complete the project in the future. The project is licensed under CC BY-NC 4.0.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sterenz/IconoGraph/main?labpath=IconoGraph_EDA.ipynb)
